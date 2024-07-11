@@ -1,9 +1,9 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "Player scale",
-		"description": "Player scale Behavior Pack",
-		"uuid": "6ef33706-4245-063e-5ec5-a9f99a8034a8",
+		"name": "Player scale big",
+		"description": "Player scale big Behavior Pack",
+		"uuid": "6ef33706-4245-063e-5ec5-a9f99a8034a9",
 		"version": [1, 0, 0],
 		"min_engine_version": [1, 16, 0]
 	},
